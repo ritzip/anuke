@@ -2,3 +2,4 @@ name: anuke
 displayName: Anuke
 author: ritzip
 hidden: true
+minGameVersion: 105
